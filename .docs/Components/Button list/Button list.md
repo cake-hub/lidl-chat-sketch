@@ -7,7 +7,7 @@ Please ensure to comply with the corporate identity. A detailed list what can be
 The button list is a possible respond option of the chatbot to offer the user information to his question.
 The bot can provide the user several links.
 
-It is based on the design of the [CAKE product tile](../../../Typography.md).
+It is based on the design of the [CAKE product tile](../../../../Web/Design/Components/Product_tile/Product_tile.md).
 
 
 ![example button list](assets/examples/button-list@1x.png)

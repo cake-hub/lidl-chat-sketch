@@ -6,7 +6,7 @@ Please ensure to comply with the corporate identity.
 
 Quick replies are like short links that offer the user a quick interaction.
 
-It is based on the design of the [CAKE badge](../../../Typography.md).
+It is based on the design of the [CAKE badge](../../../../Web/Design/Components/Badge/Badge.md).
 
 ![Quick Replies](assets/examples/quick-replies@1x.png)
 

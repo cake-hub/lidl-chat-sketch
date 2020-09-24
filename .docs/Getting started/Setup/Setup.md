@@ -14,7 +14,7 @@ How you get access to all our fine CAKE products.
 | Project | Link |
 |---|---|
 | Fundamental | <https://github.com/cake-hub/lidl-sketch.git> |
-| Web | <https://github.com/cake-hub/lidl-web-sketch.git> |
+| Chat | <https://github.com/cake-hub/lidl-chat-sketch.git> |
 
 
 ## Newbies

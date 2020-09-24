@@ -13,7 +13,7 @@ It gives the user the opportunity to write and send his message.
 - The text-style is **basic**.
 - The divider always comes in **gray-light** and has a **height of 1px**.
 - The background color is **basic-white**.
-- The icon always is **paper-plane.svg** and it follows the rules of [Styling as navigation](../General/Icon/Icon.md)
+- The icon always is **paper-plane.svg** and it follows the rules of [Styling as navigation](../../../../Web/Design/General/Icon/Icon.md)
 
 | Types | Attributes | Preview |
 |---|---|---|
