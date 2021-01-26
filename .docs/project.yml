@@ -1,4 +1,5 @@
-version: 1.0.1
+version: 1.0.2
+company: Lidl
 product: Chat
 productIcon: chatbot
 section: Design

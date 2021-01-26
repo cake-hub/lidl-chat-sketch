@@ -6,7 +6,7 @@ Please ensure to comply with the corporate identity. A detailed list what can be
 
 The card is a possible respond option of the chatbot to offer the user information to his question.
 
-It is based on the design of the [CAKE product tile](../../../../Web/Design/Components/Product\ tile/Product\ tile.md).
+It is based on the design of the [CAKE product tile](/Lidl/Web/Design/Components/Product\ tile/Product\ tile.md).
 
 ![example card](assets/examples/card@1x.png)
 

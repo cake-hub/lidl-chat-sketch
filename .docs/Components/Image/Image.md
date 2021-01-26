@@ -6,7 +6,7 @@ Please ensure to comply with the corporate identity. A detailed list what can be
 
 The image is a possible responding option to offer the user a simple image to a topic.
 
-It is based on the design of the [CAKE image](../../../../Web/Design/General/Image/Image.md).
+It is based on the design of the [CAKE image](/Lidl/Web/Design/General/Image/Image.md).
 
 ![example image](assets/examples/image@1x.png)
 
