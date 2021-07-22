@@ -1,5 +1,5 @@
 <AlertInfo alertHeadline="Modifiable">
-Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
+Please ensure to comply with the corporate identity. [How to work with](#our-workflow-in-sketch)?
 </AlertInfo>
 
 # Images

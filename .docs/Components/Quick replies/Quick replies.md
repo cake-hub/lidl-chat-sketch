@@ -1,8 +1,8 @@
 <AlertInfo alertHeadline="Modifiable">
-Please ensure to comply with the corporate identity.
+Please ensure to comply with the corporate identity. [What can be modified](#what-can-be-modified)?
 </AlertInfo>
 
-# Quick Replies
+# Quick replies
 
 Quick replies are like short links that offer the user a quick interaction.
 
@@ -30,9 +30,10 @@ It is based on the design of the [CAKE badge](../../../../Web/Design/Components/
 
 ## Overall styling
 
-- The text-style is always **basic bold**.
+- The text-style is always [basic-bold](../../../../Web/Design/General/Typography/Typography.md#basic-bold).
 - The text-color always is **basic white**.
 - The line-height is **120%**.
+- The text-color always is **basic white**.
 - The default background-color is **brand-primary-base**.
 - The hover background-color changes to **brand-primary-darker**.
 - The border is in **basic-white** with a **1px thickness**.
@@ -40,11 +41,17 @@ It is based on the design of the [CAKE badge](../../../../Web/Design/Components/
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|
 | Horizontal spacing | padding: 16px | ![horizontal-spacing](assets/measurements/horizontal-spacing@1x.png) |
 | Vertical spacing | padding: 4px | ![vertical-spacing](assets/measurements/vertical-spacing@1x.png) |
 | Horizontal distance | margin: 8px | ![distance](assets/measurements/horizontal-distance@1x.png) |
-| Vertikal distance | margin: 8px | ![distance](assets/measurements/vertical-distance@1x.png) |
+| Vertical distance | margin: 8px | ![distance](assets/measurements/vertical-distance@1x.png) |
+
+---
+
+## What can be modified?
+
+- Override the reply text element.

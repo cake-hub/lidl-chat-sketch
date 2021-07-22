@@ -34,10 +34,14 @@ It is based on the design of the [CAKE product tile](/Lidl/Web/Design/Components
 
 ## Overall styling
 
-- The text-style is **basic**.
+- The text-style is [basic](../../../../Web/Design/General/Typography/Typography.md#basic).
+- The line-height is **120%**.
+- The default text-color is **gray-darker**.
+- The default link is our [link positive](../../../../Web/Design/General/Link/Link.md#positive-version) one.
+- The text-style is [basic](../../../../Web/Design/General/Typography/Typography.md#bold).
+- The line-height is **120%**.
 - The default text-color is **gray-darker**.
 - The default link-color is **brand-primary-base** and has text decoration **underline**.
-- The line-height is **120%**.
 - The components has **rounded corners of 2px**.
 - The icon is **arrow-right** and the color is **brand-primary-base**.
 - The divider height is **1px** and the color is **gray-lighter**.
@@ -47,7 +51,7 @@ It is based on the design of the [CAKE product tile](/Lidl/Web/Design/Components
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

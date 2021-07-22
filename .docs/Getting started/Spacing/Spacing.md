@@ -19,7 +19,7 @@ Working with CAKE brings fixed spaces for layouts.
 
 ## Horizontal direction
 
-- All distances are set to an increment of 8 (8, 16, 24, 32, 40, 48, … 128) because of the approach of responsive web design and the component's behaviour.
+- All distances are set to an increment of 8 (8, 16, 24, 32, 40, 48, … 128) because of the approach of responsive web design and the component's behavior.
 
 ![horizontal-spaces](assets/horizontal@1x.png)
 
@@ -44,7 +44,7 @@ Working with CAKE brings fixed spaces for layouts.
 - The distance between components should follow the rule of 8.
 - Margins or paddings are an increment of 8.
 
-| Horizontal & Vertical | Vertical |
+| Horizontal & vertical | Vertical |
 |---|---|
 | ![Example: Spaces](assets/example-1@1x.png) | ![Example: Spaces](assets/example-2@1x.png) |
 

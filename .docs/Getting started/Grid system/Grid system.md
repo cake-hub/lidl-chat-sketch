@@ -1,6 +1,6 @@
-<AlertInfo alertHeadline="Modifiable">
-Please ensure to comply with the corporate identity.
-</AlertInfo>
+<AlertWarning alertHeadline="Not modifiable">
+It is mandatory to maintain the appearance and behavior of these components.
+</AlertWarning>
 
 # Grid system
 

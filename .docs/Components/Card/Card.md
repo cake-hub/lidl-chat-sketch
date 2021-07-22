@@ -20,10 +20,10 @@ It is based on the design of the [CAKE product tile](/Lidl/Web/Design/Components
 
 ## Overall styling
 
-- The text-style of the title is **large bold**.
+- The text-style of the title is [large bold](../../../../Web/Design/General/Typography/Typography.md#large-bold).
+- The line-height is **120%**.
 - The text-style of the subtitle is **small**.
 - The text-style of the body-text is **basic**.
-- The line-height is **120%**.
 - The image ratio always is **4:3**.
 - The components has **rounded corners of 2px**.
 - Every state uses the **shadow-default**.
@@ -32,7 +32,7 @@ It is based on the design of the [CAKE product tile](/Lidl/Web/Design/Components
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|
@@ -44,6 +44,6 @@ It is based on the design of the [CAKE product tile](/Lidl/Web/Design/Components
 
 ## What can be modified?
 
-- Override the text.
-- Delete the title, subtitle or body-text if necessary for your project.
+- Override the text and image.
+- Modify card component to your project needs.
 - Adjust the height.

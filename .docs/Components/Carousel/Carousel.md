@@ -14,7 +14,7 @@ The carousel is a possible responding option to offer the user a summary of resp
 
 - All offers are listed horizontally next to each other.
 - Sliding offers is a characteristic feature of this components.
-- The carousel contains a various number of respond blocks (e.g. button list, card, etc.).
+- The carousel contains a various number of respond blocks (e.g. [button list](../Button%20list/Button%20list.md), [card](../Card/Card.md) etc.).
 - The overall height depends on the highest element.
 
 ---
@@ -48,7 +48,7 @@ The carousel is a possible responding option to offer the user a summary of resp
 
 ---
 
-## Placement & Spacing
+## Placement & spacing
 
 - The buttons are placed on the edge of the screen.
 - The buttons are placed in mid-level hight of the highest element.
@@ -56,3 +56,12 @@ The carousel is a possible responding option to offer the user a summary of resp
 - The overall height depends on the highest element.
 
 ![example placement](assets/example/with-chatwindow@1x.png)
+
+---
+
+## What can be modified?
+
+- Override the text elements.
+- Adjust the height.
+- Add or delete the amount of links.
+- Add ordered list or line break list in the text box area.
