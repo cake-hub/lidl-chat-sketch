@@ -1,5 +1,5 @@
 <AlertInfo alertHeadline="Modifiable">
-Please ensure to comply with the corporate identity. [How to work with](#our-workflow-in-sketch)?
+Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
 </AlertInfo>
 
 # Images
@@ -22,6 +22,11 @@ It is based on the design of the [CAKE image](/Lidl/Web/Design/General/Image/Ima
 - The image streches over the **full width** of the chatwindow.
 
 ---
+
+## What can be modified
+
+- Override the content.
+- Adjust height and width.
 
 ### Our workflow in Sketch
 

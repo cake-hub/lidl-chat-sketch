@@ -1,6 +1,6 @@
 # Migration guide
 
-## Update version 4.x to 5.x
+## Update version 4.x to 5.x (Fundamentals)
 
 ### New Git repositories
 
